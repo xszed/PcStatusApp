@@ -1,3 +1,4 @@
+pystyle
 platform
 psutil
 matplotlib
