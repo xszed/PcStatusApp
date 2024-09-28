@@ -6,3 +6,7 @@
 - py Stats.py or download my batch
 
 💷Thats all for now
+
+<div align="center">
+  <img height="200" src="https://ibb.co/G0jJj8s"  />
+</div>
