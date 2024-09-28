@@ -8,5 +8,5 @@
 💷Thats all for now
 
 <div align="center">
-  <img height="200" src="https://ibb.co/G0jJj8s"  />
+  <img height="200" src="https://i.postimg.cc/DZ1Mdq0M/Screenshot-2.png"  />
 </div>
