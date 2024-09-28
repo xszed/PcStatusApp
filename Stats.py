@@ -16,8 +16,5 @@ def Main():
     Machine: {my_system.machine} | Processor: {my_system.processor}"""
 
     print(Colors.green, info, True)
-
-    press = input("Write anything to close the app >")
-
 if __name__ == "__main__":
     Main()
